@@ -1,6 +1,6 @@
-English:
+# English:
 
-Diabetes Prediction with Machine Learning in Python
+## Diabetes Prediction with Machine Learning in Python
 This is a simple but powerful project: a machine learning model that predicts whether a person has diabetes, using real medical data.
 
 I used libraries such as pandas, scikit-learn, seaborn, and matplotlib to:
@@ -19,9 +19,9 @@ A useful practice to understand how to apply ML to real-life health problems.
 You can access the code by clicking on the notebook in the menu.
 
 
-Spanish:
+# Spanish:
 
-Predicción de Diabetes con Machine Learning en Python
+## Predicción de Diabetes con Machine Learning en Python
 Este es un proyecto simple pero poderoso: un modelo de machine learning que predice si una persona tiene diabetes, usando datos médicos reales.
 
  Utilicé librerías como pandas, scikit-learn, seaborn y matplotlib para:
